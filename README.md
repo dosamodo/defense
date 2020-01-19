@@ -13,7 +13,7 @@ Small defense(blueteam/DFIR) projects
 |```cmdkey```|cmdkey command executed      |https://lolbas-project.github.io/lolbas/Binaries/Cmdkey/|                                             |
 |```rundll32.*setupapi.dll```|rundll32 command specifying setupapi.dll executed|https://lolbas-project.github.io/lolbas/Libraries/Setupapi/|                                             |
 |```csc.*-target:library```|csc.exe command specifying -target:library executed|https://lolbas-project.github.io/lolbas/Binaries/Csc/|                                             |
-|```appvlp.*(\.bat|powershell|cmd|shellexecute|registerxll|\.exe)```|AppVLP.exe command performed |https://lolbas-project.github.io/lolbas/OtherMSBinaries/Appvlp/|                                             |
+|```appvlp.*(\.bat\|powershell|cmd|shellexecute|registerxll|\.exe)```|AppVLP.exe command performed |https://lolbas-project.github.io/lolbas/OtherMSBinaries/Appvlp/|                                             |
 |```atbroker.*\/start.*```|atbroker command performed   |https://lolbas-project.github.io/lolbas/Binaries/Atbroker/|                                             |
 |```bginfo.*bginfo.bgi.*\/popup.*\/nolicprompt```|bginfo command performed     |https://lolbas-project.github.io/lolbas/OtherMSBinaries/Bginfo/|                                             |
 |```bitsadmin.*\/create.*bitsadmin.*\/addfile.*\/resume```|bitsadmin.exe command performed|https://lolbas-project.github.io/lolbas/Binaries/Bitsadmin/|                                             |
